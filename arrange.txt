@@ -1,0 +1,23 @@
+Portfolio/
+│── index.html          (Home)
+│── about.html          (About)
+│── projects.html       (Projects)
+│── blog.html           (Blog)
+│── contact.html        (Contact)
+│
+├── css/
+│     └── style.css
+│
+├── images/
+│     ├── profile.jpg
+│     ├── project1.jpg
+│     ├── project2.jpg
+│     └── poster.jpg
+│
+├── media/
+│     ├── intro.mp4
+│     ├── intro.webm
+│     ├── music.mp3
+│     └── music.ogg
+│
+└── resume.pdf
